@@ -1,0 +1,31 @@
+.page_main_content {
+    padding-top:160px;
+}
+
+.artical_main{
+    padding-top: 150px;
+}
+
+@media (max-width:1150px){
+    .page_main_content {
+        padding-top: 175px;
+    }
+}
+
+@media (max-width:960px){
+    .page_main_content{
+        padding-top:200px;
+    }
+}
+
+@media (max-width: 700px){
+    .page_main_content {
+        padding-top: 150px;
+    }
+}
+
+@media (max-width: 400px){
+    .artical_main {
+        padding-top: 180px;
+    }
+}
