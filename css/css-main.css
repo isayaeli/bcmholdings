@@ -240,7 +240,7 @@ textarea {
     background-image: url(../images/images-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
-    right:350px;
+    right:500px;
 	-webkit-transform: rotate(90deg);
 	-moz-transform: rotate(90deg);
 	-ms-transform: rotate(90deg);
@@ -809,8 +809,8 @@ header.active {
 }
 
 .header_button {
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
     background: darkgoldenrod;
     border-radius: 50%;
     display: -webkit-box;
@@ -3935,6 +3935,22 @@ div.wpcf7 .ajax-loader {
   .become-investor{
     font-size: 20px;
   }
+  
+  .about_item p{
+    margin-left: -5px;
+    margin-top: -20px;
+  }
+  .about_item a{
+    margin-left: 2px;
+    margin-top: -10px;
+  }
+  .myshare a{
+    font-size: 20px;
+     margin-left: 60px;
+  }
+  #link{
+    margin-left: 20px;
+
 
 }
 
@@ -3959,6 +3975,22 @@ div.wpcf7 .ajax-loader {
     font-size: 20px;
   }
 
+  .about_item p{
+    margin-left: -5px;
+    margin-top: -20px;
+  }
+  .about_item a{
+    margin-left: 2px;
+    margin-top: -10px;
+  }
+  .myshare a{
+    font-size: 20px;
+     margin-left: 60px;
+  }
+  #link{
+    margin-left: 20px;
+
+
 }
 @media only screen and (max-width: 800px) {
   .content .description-1{
@@ -3976,9 +4008,25 @@ div.wpcf7 .ajax-loader {
   .about_item  {
     align-items: center;
     margin-left: 30%;
+    display: inline-flex;
   }
-  .become-investor{
+  .about_item p{
+    margin-left: -5px;
+    margin-top: -20px;
+  }
+  .about_item a{
+    margin-left: 2px;
+    margin-top: -10px;
+  }
+  .myshare a{
     font-size: 20px;
+     margin-left: 60px;
   }
-
+  #link{
+    margin-left: 20px;
+  }
+ /* .loader_logo{
+    margin-left: -150px;
+  }
+*/
 }
