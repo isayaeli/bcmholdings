@@ -809,8 +809,8 @@ header.active {
 }
 
 .header_button {
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
     background: darkgoldenrod;
     border-radius: 50%;
     display: -webkit-box;
@@ -831,6 +831,7 @@ header.active {
     -o-transition: all .3s;
     transition: all .3s;
     transform: scale(1.2);
+
 }
 
 .header_button.active {
@@ -2415,7 +2416,7 @@ textarea.form_input {
     -ms-flex: 1;
     flex: 1;
     display: -webkit-box;
-    display: -ms-flexbox;
+    display: -ms-flexbox;.header_button 
     display: flex;
     -ms-flex-pack: distribute;
     justify-content: space-around
@@ -3935,6 +3936,22 @@ div.wpcf7 .ajax-loader {
   .become-investor{
     font-size: 20px;
   }
+  .header_button{
+    /*background-color: green;*/
+    max-width: 50px;
+    max-height: 50px;
+    color: red;
+    align-self: center;;
+  }
+  
+  .header_menu .header_fon{
+   /* background-color: red;*/
+     max-width: 50px;
+    max-height: 50px;
+    text-align: center;
+    margin-left: 4px;
+
+  }
 
 }
 
@@ -3959,6 +3976,23 @@ div.wpcf7 .ajax-loader {
     font-size: 20px;
   }
 
+   .header_button{
+    /*background-color: green;*/
+    max-width: 50px;
+    max-height: 50px;
+    color: red;
+    align-self: center;;
+  }
+  
+  .header_menu .header_fon{
+   /* background-color: red;*/
+     max-width: 50px;
+    max-height: 50px;
+    text-align: center;
+    margin-left: 4px;
+
+  }
+
 }
 @media only screen and (max-width: 800px) {
   .content .description-1{
@@ -3980,5 +4014,23 @@ div.wpcf7 .ajax-loader {
   .become-investor{
     font-size: 20px;
   }
+  
+   .header_button{
+    /*background-color: green;*/
+    max-width: 50px;
+    max-height: 50px;
+    color: red;
+    align-self: center;;
+  }
+  
+  .header_menu .header_fon{
+   /* background-color: red;*/
+     max-width: 50px;
+    max-height: 50px;
+    text-align: center;
+    margin-left: 4px;
+
+  }
+
 
 }
