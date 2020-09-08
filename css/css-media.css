@@ -925,6 +925,24 @@
 }
 
 @media (max-width:500px) {
+    .grid.white .grid_photo {
+    position: absolute;
+    content: '';
+    width: 10%;
+    height: 10%;
+    background-image: url(../images/images-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    right:500px;
+    margin-left:50px;
+    margin-bottom: 120px;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(90deg);
+    
+    opacity: .5;
+    bottom: 0%;
+}
     .sidebar_logo {
         display: none;
     }
@@ -976,13 +994,13 @@
         top: 0%;
     }
     .loader_logo img {
-        height: 150vh;
+        height: 80vh;
         width: 135vw;
     }
 
     .loader_logo.right {
-        top: 40%;
-        right: -6%;
+        top:-25%;
+        right: 10%;
         width: 100%;
     }
 
@@ -1158,7 +1176,7 @@
         -webkit-box-direction: normal;
         -ms-flex-direction: column;
         flex-direction: column;
-        margin-top: 11vw;
+        margin-top: 5vw;
     }
     .section_photo:before {
         position: absolute;
@@ -2052,7 +2070,7 @@
     .manifestoInfo_page .grid.white .grid_photo {
         position: absolute;
         content: '';
-        width: 138%;
+        width: 128%;
         height: 105%;
         background-image: url(../images/images-bg.png);
         background-size: contain;
