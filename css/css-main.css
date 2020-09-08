@@ -304,9 +304,7 @@ textarea {
     top: 0;
     background: #003152;
     z-index: 110;
-    -webkit-transition: all 1s;
-    -o-transition: all 1s;
-    transition: all 1s;
+   
     overflow: hidden
 }
 
@@ -3836,6 +3834,12 @@ div.wpcf7 .ajax-loader {
         transform: translateX(-50%);
     }   
 }
+.loader_logo img{
+    padding-left:70px; 
+    padding-bottom: 50px;
+    width: 300px;
+   
+}
 
 .investment-btn{
     margin-left: 20px;
@@ -3897,12 +3901,6 @@ div.wpcf7 .ajax-loader {
 
 }
 
-@media screen and (max-width:500px){
- 
-.link-name{
-     margin-top: 350px;
-   }
-}
 
 @media screen and (max-width:800px){
  
@@ -3913,6 +3911,68 @@ div.wpcf7 .ajax-loader {
    .link-name a{
      margin-left: 50px;
    }
+   .content .description-1{
+    margin-bottom: 9vw;
+    font-size: 6.1vw;
+    letter-spacing: 0.13vw;
+    line-height: 1.7em;}
+  .content .description-2{
+     margin-bottom: 9vw;
+    font-size: 4.2vw;
+    letter-spacing: 0.13vw;
+    line-height: 1.7em;
+    }
+  h2{font-size: 18px;}
+  .about_item  {
+    align-items: center;
+    margin-left: 30%;
+    display: inline-flex;
+  }
+<<<<<<< HEAD
+=======
+  .become-investor{
+    font-size: 20px;
+  }
+
+  .header_button{
+    /*background-color: green;*/
+    max-width: 50px;
+    max-height: 50px;
+    color: red;
+    align-self: center;;
+  }
+  
+  .header_menu .header_fon{
+   /* background-color: red;*/
+     max-width: 50px;
+    max-height: 50px;
+    text-align: center;
+    margin-left: 4px;
+
+  }
+]
+  
+>>>>>>> 0abe7821258f0762a7ad1aae866cb2ba8f9f52eb
+  .about_item p{
+    margin-left: -5px;
+    margin-top: -20px;
+  }
+  .about_item a{
+    margin-left: 2px;
+    margin-top: -10px;
+  }
+  .myshare a{
+    font-size: 20px;
+     margin-left: 60px;
+  }
+  #link{
+    margin-left: 20px;
+  }
+  
+  /*.loader_logo img{
+    width: 300px;
+    height: 100px;
+  }*/
 }
 
 
@@ -3936,8 +3996,12 @@ div.wpcf7 .ajax-loader {
   .become-investor{
     font-size: 20px;
   }
+<<<<<<< HEAD
+  
+=======
 
-  .header_button{
+<<<<<<< HEAD
+   .header_button{
     /*background-color: green;*/
     max-width: 50px;
     max-height: 50px;
@@ -3953,8 +4017,8 @@ div.wpcf7 .ajax-loader {
     margin-left: 4px;
 
   }
-]
-  
+
+>>>>>>> 0abe7821258f0762a7ad1aae866cb2ba8f9f52eb
   .about_item p{
     margin-left: -5px;
     margin-top: -20px;
@@ -3969,6 +4033,7 @@ div.wpcf7 .ajax-loader {
   }
   #link{
     margin-left: 20px;
+
 
 
 }
@@ -3994,60 +4059,6 @@ div.wpcf7 .ajax-loader {
     font-size: 20px;
   }
 
-<<<<<<< HEAD
-   .header_button{
-    /*background-color: green;*/
-    max-width: 50px;
-    max-height: 50px;
-    color: red;
-    align-self: center;;
-  }
-  
-  .header_menu .header_fon{
-   /* background-color: red;*/
-     max-width: 50px;
-    max-height: 50px;
-    text-align: center;
-    margin-left: 4px;
-
-  }
-
-  .about_item p{
-    margin-left: -5px;
-    margin-top: -20px;
-  }
-  .about_item a{
-    margin-left: 2px;
-    margin-top: -10px;
-  }
-  .myshare a{
-    font-size: 20px;
-     margin-left: 60px;
-  }
-  #link{
-    margin-left: 20px;
-
-
-
-}
-@media only screen and (max-width: 800px) {
-  .content .description-1{
-    margin-bottom: 9vw;
-    font-size: 6.1vw;
-    letter-spacing: 0.13vw;
-    line-height: 1.7em;}
-  .content .description-2{
-     margin-bottom: 9vw;
-    font-size: 4.2vw;
-    letter-spacing: 0.13vw;
-    line-height: 1.7em;
-    }
-  h2{font-size: 18px;}
-  .about_item  {
-    align-items: center;
-    margin-left: 30%;
-    display: inline-flex;
-  }
   .about_item p{
     margin-left: -5px;
     margin-top: -20px;
@@ -4084,13 +4095,11 @@ div.wpcf7 .ajax-loader {
 
   #link{
     margin-left: 20px;
-  }
- /* .loader_logo{
-    margin-left: -150px;
-  }
-*/
 
 
 
 
+}
+.aff_slide-title{
+    font-size: 10px;
 }
