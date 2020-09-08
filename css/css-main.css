@@ -829,6 +829,7 @@ header.active {
     -o-transition: all .3s;
     transition: all .3s;
     transform: scale(1.2);
+
 }
 
 .header_button.active {
@@ -2413,7 +2414,7 @@ textarea.form_input {
     -ms-flex: 1;
     flex: 1;
     display: -webkit-box;
-    display: -ms-flexbox;
+    display: -ms-flexbox;.header_button 
     display: flex;
     -ms-flex-pack: distribute;
     justify-content: space-around
@@ -3927,6 +3928,31 @@ div.wpcf7 .ajax-loader {
     margin-left: 30%;
     display: inline-flex;
   }
+<<<<<<< HEAD
+=======
+  .become-investor{
+    font-size: 20px;
+  }
+
+  .header_button{
+    /*background-color: green;*/
+    max-width: 50px;
+    max-height: 50px;
+    color: red;
+    align-self: center;;
+  }
+  
+  .header_menu .header_fon{
+   /* background-color: red;*/
+     max-width: 50px;
+    max-height: 50px;
+    text-align: center;
+    margin-left: 4px;
+
+  }
+]
+  
+>>>>>>> 0abe7821258f0762a7ad1aae866cb2ba8f9f52eb
   .about_item p{
     margin-left: -5px;
     margin-top: -20px;
@@ -3970,7 +3996,29 @@ div.wpcf7 .ajax-loader {
   .become-investor{
     font-size: 20px;
   }
+<<<<<<< HEAD
   
+=======
+
+<<<<<<< HEAD
+   .header_button{
+    /*background-color: green;*/
+    max-width: 50px;
+    max-height: 50px;
+    color: red;
+    align-self: center;;
+  }
+  
+  .header_menu .header_fon{
+   /* background-color: red;*/
+     max-width: 50px;
+    max-height: 50px;
+    text-align: center;
+    margin-left: 4px;
+
+  }
+
+>>>>>>> 0abe7821258f0762a7ad1aae866cb2ba8f9f52eb
   .about_item p{
     margin-left: -5px;
     margin-top: -20px;
@@ -3985,6 +4033,7 @@ div.wpcf7 .ajax-loader {
   }
   #link{
     margin-left: 20px;
+
 
 
 }
@@ -4022,15 +4071,30 @@ div.wpcf7 .ajax-loader {
     font-size: 20px;
      margin-left: 60px;
   }
+
+  
+   .header_button{
+    /*background-color: green;*/
+    max-width: 50px;
+    max-height: 50px;
+    color: red;
+    align-self: center;;
+  }
+  
+  .header_menu .header_fon{
+
+   /* background-color: red;*/
+     max-width: 50px;
+    max-height: 50px;
+    text-align: center;
+    margin-left: 6px;
+
+  }
+
+
+
   #link{
     margin-left: 20px;
- }
-/* .loader_logo img{
-    padding-left:70px; 
-    padding-bottom: 50px;
-    width: 300px;
-   
-  }*/
 
 }
 .aff_slide-title{
