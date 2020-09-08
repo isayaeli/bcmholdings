@@ -240,7 +240,7 @@ textarea {
     background-image: url(../images/images-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
-    right:500px;
+    right:350px;
 	-webkit-transform: rotate(90deg);
 	-moz-transform: rotate(90deg);
 	-ms-transform: rotate(90deg);
@@ -809,6 +809,7 @@ header.active {
 }
 
 .header_button {
+    margin-left: 2px;
     height: 50px;
     width: 50px;
     background: darkgoldenrod;
@@ -831,7 +832,6 @@ header.active {
     -o-transition: all .3s;
     transition: all .3s;
     transform: scale(1.2);
-
 }
 
 .header_button.active {
@@ -1160,7 +1160,7 @@ blockquote .link:before {
 .about_row {
     width: 100%;
     margin-top: 50px;
-	margin-left: 30px;
+	margin-left: ;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -2416,7 +2416,7 @@ textarea.form_input {
     -ms-flex: 1;
     flex: 1;
     display: -webkit-box;
-    display: -ms-flexbox;.header_button 
+    display: -ms-flexbox;
     display: flex;
     -ms-flex-pack: distribute;
     justify-content: space-around
@@ -3570,22 +3570,6 @@ div.wpcf7 .ajax-loader {
     background-position:center right;
 }
 
-
-@media screen and (min-width:360px){
-    .fp-viewing-contact .grid {
-    /*background: #003152;*/
-   /* background-image: none;*/
-    background-repeat: no-repeat;
-    background-position:center right;
-}
-}
-
-
-
-
-
-}
-
 .fp-viewing-contact .loader_man.right {
     opacity: 1;
     right: -10%
@@ -3818,105 +3802,29 @@ div.wpcf7 .ajax-loader {
 }
 
 .video-container{
-    width: 400px;
-    height: 400px;
+    display: block;
+    margin-left: 3px;
+    width: 250px;
+    height: 250px;
     background: #003152;
     overflow: hidden;
     position: absolute;
     top: 270px;
-    right: 120px;
+    right: 190px;
     border-radius: 50%;
     margin: 50px auto;
+
     
     video{
-        height: 100%;
+        height: 50%;
         position: absolute;
         top: 0;
-        left: 30%;
+        left: 50%;
         transform: translateX(-50%);
     }   
 }
-
-.investment-btn{
-    margin-left: 20px;
-    text-transform: capitalize;
-}
-.commodity-title{
-     margin-left: 35%;
-}
-
-.commodity .commodity-title h1{
-   
-    color: white;
-    font-weight: bold;
-    margin-top: 50px;
-    margin-left: -50px;
-
-}
-.details{
-    width: 50%;
-    height: 100px;
-    margin-left: 25%;
-    margin-top: 20px;
-    letter-spacing: 1px;
-
-}
-
-.commodity-btn{
-    background: white;
-    height: 35px;
-    width: 130px;
-    border-radius: 2px;
-    margin-top: 40px;
-    margin-left: 45%;
-}
-
-.commodity-btn a{
-    line-height: 35px;
-    margin-left: 20px;
-    color: black;
-}
-
-.logo img{
-    float: left;
-    height: 100px;
-
-}
-.logo{
-    margin-left: 100px;
-}
-
-.link-name{
-    margin-top: 50px;
-    margin-left: 80px;
-}
-
-.link-name a{
-    font-size: 30px;
-    color: white;
-
-}
-
-@media screen and (max-width:500px){
- 
-.link-name{
-     margin-top: 350px;
-   }
-}
-
-@media screen and (max-width:800px){
- 
-.link-name{
-     margin-top: 350px;
-     margin-left: 50px;
-   }
-   .link-name a{
-     margin-left: 50px;
-   }
-}
-
-
 @media only screen and (max-width: 600px) {
+  .content {background-color:}
   .content .description-1{
     margin-bottom: 9vw;
     font-size: 6.1vw;
@@ -3931,166 +3839,10 @@ div.wpcf7 .ajax-loader {
   h2{font-size: 18px;}
   .about_item  {
     align-items: center;
-    margin-left: 30%;
+    margin-left: 40%;
   }
   .become-investor{
     font-size: 20px;
   }
-
-  .header_button{
-    /*background-color: green;*/
-    max-width: 50px;
-    max-height: 50px;
-    color: red;
-    align-self: center;;
-  }
-  
-  .header_menu .header_fon{
-   /* background-color: red;*/
-     max-width: 50px;
-    max-height: 50px;
-    text-align: center;
-    margin-left: 4px;
-
-  }
-]
-  
-  .about_item p{
-    margin-left: -5px;
-    margin-top: -20px;
-  }
-  .about_item a{
-    margin-left: 2px;
-    margin-top: -10px;
-  }
-  .myshare a{
-    font-size: 20px;
-     margin-left: 60px;
-  }
-  #link{
-    margin-left: 20px;
-
-
-}
-
-@media only screen and (max-width: 500px) {
-  .content .description-1{
-    margin-bottom: 9vw;
-    font-size: 6.1vw;
-    letter-spacing: 0.13vw;
-    line-height: 1.7em;}
-  .content .description-2{
-     margin-bottom: 9vw;
-    font-size: 4.2vw;
-    letter-spacing: 0.13vw;
-    line-height: 1.7em;
-    }
-  h2{font-size: 18px;}
-  .about_item  {
-    align-items: center;
-    margin-left: 30%;
-  }
-  .become-investor{
-    font-size: 20px;
-  }
-
-<<<<<<< HEAD
-   .header_button{
-    /*background-color: green;*/
-    max-width: 50px;
-    max-height: 50px;
-    color: red;
-    align-self: center;;
-  }
-  
-  .header_menu .header_fon{
-   /* background-color: red;*/
-     max-width: 50px;
-    max-height: 50px;
-    text-align: center;
-    margin-left: 4px;
-
-  }
-
-  .about_item p{
-    margin-left: -5px;
-    margin-top: -20px;
-  }
-  .about_item a{
-    margin-left: 2px;
-    margin-top: -10px;
-  }
-  .myshare a{
-    font-size: 20px;
-     margin-left: 60px;
-  }
-  #link{
-    margin-left: 20px;
-
-
-
-}
-@media only screen and (max-width: 800px) {
-  .content .description-1{
-    margin-bottom: 9vw;
-    font-size: 6.1vw;
-    letter-spacing: 0.13vw;
-    line-height: 1.7em;}
-  .content .description-2{
-     margin-bottom: 9vw;
-    font-size: 4.2vw;
-    letter-spacing: 0.13vw;
-    line-height: 1.7em;
-    }
-  h2{font-size: 18px;}
-  .about_item  {
-    align-items: center;
-    margin-left: 30%;
-    display: inline-flex;
-  }
-  .about_item p{
-    margin-left: -5px;
-    margin-top: -20px;
-  }
-  .about_item a{
-    margin-left: 2px;
-    margin-top: -10px;
-  }
-  .myshare a{
-    font-size: 20px;
-     margin-left: 60px;
-  }
-
-  
-   .header_button{
-    /*background-color: green;*/
-    max-width: 50px;
-    max-height: 50px;
-    color: red;
-    align-self: center;;
-  }
-  
-  .header_menu .header_fon{
-
-   /* background-color: red;*/
-     max-width: 50px;
-    max-height: 50px;
-    text-align: center;
-    margin-left: 6px;
-
-  }
-
-
-
-  #link{
-    margin-left: 20px;
-  }
- /* .loader_logo{
-    margin-left: -150px;
-  }
-*/
-
-
-
 
 }

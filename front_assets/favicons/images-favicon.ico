@@ -1,0 +1,296 @@
+ <!DOCTYPE html>
+ <html lang="en">
+
+ <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <title>Page not found - JKR</title>
+     <base href="/">
+
+
+     <link rel="shortcut icon" href="https://jkr.co/wp-content/themes/jkr/images/favicon.ico" type="image/x-icon">
+
+     <link rel="apple-touch-icon" sizes="57x57" href="https://jkr.co/wp-content/themes/jkr/images/favicon/apple-icon-57x57.png">
+     <link rel="apple-touch-icon" sizes="60x60" href="https://jkr.co/wp-content/themes/jkr/images/favicon/apple-icon-60x60.png">
+     <link rel="apple-touch-icon" sizes="72x72" href="https://jkr.co/wp-content/themes/jkr/images/favicon/apple-icon-72x72.png">
+     <link rel="apple-touch-icon" sizes="76x76" href="https://jkr.co/wp-content/themes/jkr/images/favicon/apple-icon-76x76.png">
+     <link rel="apple-touch-icon" sizes="114x114" href="https://jkr.co/wp-content/themes/jkr/images/favicon/apple-icon-114x114.png">
+     <link rel="apple-touch-icon" sizes="120x120" href="https://jkr.co/wp-content/themes/jkr/images/favicon/apple-icon-120x120.png">
+     <link rel="apple-touch-icon" sizes="144x144" href="https://jkr.co/wp-content/themes/jkr/images/favicon/apple-icon-144x144.png">
+     <link rel="apple-touch-icon" sizes="152x152" href="https://jkr.co/wp-content/themes/jkr/images/favicon/apple-icon-152x152.png">
+     <link rel="apple-touch-icon" sizes="180x180" href="https://jkr.co/wp-content/themes/jkr/images/favicon/apple-icon-180x180.png">
+     <link rel="icon" type="image/png" sizes="192x192" href="https://jkr.co/wp-content/themes/jkr/images/favicon/android-icon-192x192.png">
+     <link rel="icon" type="image/png" sizes="32x32" href="https://jkr.co/wp-content/themes/jkr/images/favicon/favicon-32x32.png">
+     <link rel="icon" type="image/png" sizes="96x96" href="https://jkr.co/wp-content/themes/jkr/images/favicon/favicon-96x96.png">
+     <link rel="icon" type="image/png" sizes="16x16" href="https://jkr.co/wp-content/themes/jkr/images/favicon/favicon-16x16.png">
+
+
+
+     <link rel="manifest" href="https://jkr.co/wp-content/themes/jkr/images/favicon/manifest.json">
+     <meta name="msapplication-TileColor" content="#ffffff">
+     <meta name="msapplication-TileImage" content="https://jkr.co/wp-content/themes/jkr/images/favicon/ms-icon-144x144.png">
+     <meta name="theme-color" content="#f9ea37">
+     <link rel="stylesheet" href="https://jkr.co/wp-content/themes/jkr/dist/plugins_styles.min.css">
+     <link href="https://jkr.co/wp-content/themes/jkr/css/main.css" rel="stylesheet">
+     <link href="https://jkr.co/wp-content/themes/jkr/css/media.css" rel="stylesheet">
+     
+<!-- This site is optimized with the Yoast SEO plugin v11.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - JKR" />
+<meta property="og:site_name" content="JKR" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page not found - JKR" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://jkr.co/#website","url":"https://jkr.co/","name":"JKR","potentialAction":{"@type":"SearchAction","target":"https://jkr.co/?s={search_term_string}","query-input":"required name=search_term_string"}}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jkr.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='https://api.w.org/' href='https://jkr.co/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jkr.co/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jkr.co/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.6" />
+		<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload { opacity: 0; }
+				.lazyloading {
+					border: 0 !important;
+					opacity: 1;
+					background: rgba(255, 255, 255, 0) url('https://jkr.co/wp-content/plugins/wp-smushit/app/assets/images/smush-lazyloader-2.gif') no-repeat center !important;
+					background-size: 16px auto !important;
+				}
+					</style>
+		
+     <!-- Google Tag Manager -->
+     <script>
+         (function(w, d, s, l, i) {
+             w[l] = w[l] || [];
+             w[l].push({
+                 'gtm.start': new Date().getTime(),
+                 event: 'gtm.js'
+             });
+             var f = d.getElementsByTagName(s)[0],
+                 j = d.createElement(s),
+                 dl = l != 'dataLayer' ? '&l=' + l : '';
+             j.async = true;
+             j.src =
+                 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+             f.parentNode.insertBefore(j, f);
+         })(window, document, 'script', 'dataLayer', 'GTM-59X3MJZ');
+     </script>
+     <!-- End Google Tag Manager -->
+     <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "url": "http://www.example.com",
+          "name": "JKR",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "tel. number",
+            "email": "email",
+            "contactType": "Customer service"
+          }
+        }
+    </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152625670-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-152625670-1');
+</script>
+
+ </head>
+
+ <body>
+
+     <!-- Google Tag Manager (noscript) -->
+     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-59X3MJZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+     <!-- End Google Tag Manager (noscript) -->
+
+             <div id="wrapper" class="error404_page">
+    
+    
+            <div class="grid">
+                <div class="grid_photo"></div>
+                <div class="grid_column"></div>
+                <div class="grid_column"></div>
+                <div class="grid_column"></div>
+                <div class="grid_column"></div>
+                <div class="grid_column"></div>
+            </div>
+            <div class="animation_loader">
+                <div class="loader">
+                    <div class="loader_before"></div>
+                    <div class="loader_man">
+                       
+
+                        <picture>
+                            <source type="image/webp" srcset="https://jkr.co/wp-content/themes/jkr/images/loader/man.webp">
+                        
+
+                            <img src="https://jkr.co/wp-content/themes/jkr/images/loader/man.png" style="width: 100%;">
+                        </picture>
+
+                    </div>
+                    <div class="loader_logo">
+                        <img src="https://jkr.co/wp-content/themes/jkr/images/loader/loader_logo.png" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="backgroundFon">
+            </div>
+
+
+            <div class="container">
+
+                <div class="sections_wrap_photos">
+                </div>
+                <header>
+                    <div class="header_button">
+                        <div id="burger">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </div>
+                                        <div class="header_menu">
+                        <div class="header_fon"></div>
+                        <ul class="header_list">
+                            <li>
+                                <a href="/" class="header_link">
+                                    We are JKR
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/team/#teamInfo" class="header_link">
+                                    Our team
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/manifesto-info/" class="header_link">
+                                    Manifesto
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/category/blog/" class="header_link">
+                                    Blog
+                                </a>
+                            </li>
+                            <li>
+                                                                        <a href="/#contact" class="header_link">
+                                                                                Contact
+                                        </a>
+                            </li>
+                        </ul>
+                        <div class="header_footer">
+                            <p class="description">© JKR 2019. All Rights Reserved.<p>
+                                    <a href="https://drive.google.com/file/d/1ELnHbCl4POMgz7OsyYVLI5412xXVpkLo/view" target="_blank" class="header_link_bottom">Terms and conditions</a>
+                        </div>
+                    </div>
+                </header>
+<aside>
+                    <div class="sidebar">
+
+<a href="/" class="sidebar_logo">
+<svg width="80" height="110" viewBox="0 0 60 91" fill="none" xmlns="http://www.w3.org/2000/svg"> 
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M15.213 9.03858C14.4159 9.60881 13.5494 8.64304 14.2002 7.91288C15.1131 6.88919 16.7986 6.59219 18.3796 6.66742C19.7562 6.60419 20.9954 6.95796 22.2522 7.48204C22.3459 7.5005 22.4186 7.51735 22.455 7.53027C22.8159 7.65765 24.1336 7.90596 24.2709 7.96273C24.3584 7.22865 24.4539 5.94142 24.462 5.7245L24.4579 5.63773C24.4521 5.47504 24.4472 5.31281 24.4546 5.15104C24.4632 4.97311 24.4828 4.79589 24.5029 4.61866L24.5181 4.48342C24.5331 4.34496 24.5719 4.21596 24.633 4.10012C24.7553 3.86889 24.9676 3.71219 25.2116 3.64989L25.2106 3.64458C25.2268 3.64019 25.2434 3.64089 25.2598 3.63742C25.2766 3.63396 25.2921 3.62681 25.3094 3.62427L25.3106 3.62958C25.5506 3.59288 25.7989 3.65427 25.9969 3.81835C26.0963 3.90096 26.181 4.00458 26.2484 4.12573L26.3146 4.24435C26.4016 4.39942 26.4882 4.55473 26.5652 4.71511C26.6347 4.86073 26.6938 5.01188 26.7522 5.16373L26.7824 5.24519C26.8742 5.44135 27.4613 6.58758 27.825 7.22842C27.9247 7.1225 28.9985 6.38057 29.2692 6.12234C29.2966 6.09627 29.3545 6.05242 29.4305 5.99911C30.3422 5.02688 31.3048 4.21827 32.5519 3.73942C33.9265 3.05334 35.5394 2.66911 36.7495 3.25434C37.6124 3.67157 37.2196 4.89765 36.2892 4.68419C36.2599 4.6775 36.2301 4.67588 36.2006 4.66988C34.7248 5.56619 32.463 6.49527 31.5997 8.08158C31.1756 8.86111 31.1889 9.71981 30.9628 10.4509C30.9736 10.5757 30.9845 10.7197 30.9946 10.8635C31.0094 11.0698 31.0221 11.2701 31.0357 11.3569C31.0629 11.5339 31.1199 11.9013 30.9328 12.2723C30.8045 12.5271 30.6097 12.7431 30.3702 12.8973C30.279 12.9561 30.1761 13.0196 30.0582 13.0722C30.0007 13.0973 29.94 13.12 29.8752 13.1382C29.8385 13.1486 29.8011 13.1573 29.727 13.1742C29.5475 13.2427 29.3742 13.2806 29.1886 13.3212C28.9659 13.3701 28.7442 13.4241 28.5226 13.4779C28.2007 13.5563 27.627 13.6812 27.2481 13.7543L27.249 13.7585C26.8703 13.8446 26.4932 13.9103 26.1256 13.9731C25.8935 14.013 25.6616 14.0527 25.4305 14.0975C25.2379 14.1351 25.0581 14.1702 24.8603 14.1797C24.783 14.1942 24.744 14.2011 24.705 14.2062C24.6362 14.2157 24.5693 14.2193 24.5049 14.2191C24.3718 14.2189 24.2486 14.202 24.1382 14.1847C23.8486 14.14 23.5768 14.0202 23.3527 13.8386C23.0252 13.5737 22.9316 13.2137 22.8863 13.0406C22.8644 12.9554 22.7956 12.7669 22.7264 12.5719C22.6782 12.436 22.6306 12.2996 22.5907 12.1805C22.0816 11.6015 21.7484 10.8088 21.0321 10.2649C19.5739 9.15811 17.0529 9.21742 15.2915 8.98988C15.2659 9.00719 15.2382 9.02058 15.213 9.03858ZM11.7122 10.2455C11.7126 10.2185 11.7145 10.1915 11.7128 10.1647C11.7025 9.98932 11.6789 9.81371 11.684 9.63901C11.6879 9.50194 11.7133 9.3614 11.7546 9.23055C11.8169 9.0314 11.9425 8.88417 12.1612 8.83871C12.467 8.77524 12.7654 8.81471 13.0562 8.91094C13.2036 8.95986 13.3305 9.04824 13.4053 9.19317C13.4644 9.30786 13.5318 9.41978 13.5768 9.54002C13.6543 9.7484 13.6232 9.95586 13.5242 10.1497C13.4215 10.3512 13.2705 10.5143 13.0774 10.632C12.8503 10.7705 12.6064 10.8086 12.3532 10.7139C12.2166 10.6629 12.0828 10.6027 11.9533 10.5362C11.8993 10.5088 11.8596 10.4541 11.8132 10.4119C11.7952 10.3952 11.7772 10.3786 11.7592 10.362C11.7435 10.3232 11.7278 10.2842 11.7122 10.2455ZM37.8815 5.32935C37.798 5.1932 37.7403 5.03858 37.6886 4.88581C37.5868 4.58581 37.66 4.2962 37.7634 4.01051C37.8478 3.77766 38.0447 3.69758 38.2609 3.67497C38.4861 3.65143 38.7118 3.69251 38.9216 3.78251C39.0741 3.84828 39.2368 3.90735 39.3211 4.07189C39.3275 4.08458 39.3467 4.09081 39.3598 4.09981C39.3762 4.1402 39.3926 4.18058 39.4088 4.22097C39.4062 4.24312 39.3972 4.26666 39.4018 4.2872C39.4925 4.6862 39.4346 5.05728 39.1639 5.37112C38.9528 5.61597 38.6772 5.69051 38.3567 5.62774C38.1554 5.58805 37.9865 5.50012 37.8815 5.32935ZM24.0629 1.96552C23.9877 1.85775 23.9295 1.73799 23.8635 1.62376C23.7424 1.31337 23.753 1.01222 23.8981 0.715217C24.0389 0.427448 24.2759 0.264292 24.5842 0.211215C24.7621 0.180292 24.9412 0.212369 25.1161 0.258292C25.3243 0.312985 25.5054 0.423755 25.6843 0.535678C25.87 0.652217 25.9875 0.828525 25.9951 1.04683C26.0004 1.19406 25.9626 1.34591 25.9247 1.49083C25.85 1.77976 25.6921 2.02783 25.4891 2.24152C25.2493 2.49375 24.9006 2.52237 24.5891 2.40214C24.365 2.31606 24.1974 2.15821 24.0629 1.96552ZM28.3553 79.4072C30.1587 74.2834 30.3284 61.4432 28.8643 46.2422L28.2496 45.3512C27.8162 45.4995 27.3085 45.7543 26.7505 46.0836C23.7369 48.1151 20.9974 50.3988 18.534 52.9368C12.9295 58.5611 4.94835 65.7685 3.04566 71.744C2.8712 72.5639 2.8135 73.1741 2.68981 73.5251C2.67366 73.571 2.66558 73.6204 2.65081 73.6668C2.6275 73.9509 2.61574 74.2322 2.62866 74.5079C2.73205 76.6825 3.05858 78.1898 3.4592 79.2668C3.77443 79.9215 4.15151 80.5947 4.60358 81.2875C5.0372 81.8037 5.40712 82.079 5.54282 82.3795L5.44427 82.4833C6.52635 83.9406 7.87935 85.4621 9.50097 87.0239C17.1586 89.7193 23.4429 87.1806 28.3553 79.4072ZM59.7937 27.1873C60.1933 28.4868 59.2687 30.6761 58.3742 30.9514C57.9295 31.0882 55.9063 31.2978 52.3144 31.5791C51.7652 31.8694 51.1553 32.1788 50.5001 32.5035C50.4491 32.5372 50.396 32.5686 50.345 32.6023L50.3381 32.5838C47.9665 33.7562 45.0614 35.1156 42.5037 36.4513C37.2953 39.1718 34.8249 40.5452 32.6677 41.8988C32.2742 42.1458 31.899 42.3957 31.5475 42.6401C31.6343 43.4598 31.6913 43.9393 31.6913 43.9393L31.8586 46.3543C31.8586 46.3543 33.3549 74.8834 31.6126 79.8336C26.7048 89.0489 19.9387 92.138 11.3132 89.102L10.5874 88.8463C3.78297 86.4516 0.330197 80.9487 0.225197 72.338C0.588889 71.3046 1.01512 70.28 1.49766 69.2628C2.87327 65.6642 5.08266 62.828 7.82189 59.8928C8.85528 58.7263 9.97543 57.5713 11.1817 56.4283C12.5467 55.0455 13.9901 53.5799 15.4887 51.9548C18.7047 48.5277 22.4312 45.1894 26.6889 41.9411L26.678 41.8285C26.7715 41.756 26.8629 41.6835 26.9543 41.6106L27.9087 40.9594C27.7754 32.4726 27.2051 27.1968 26.1973 25.1374C26.4258 24.3112 26.7397 23.7555 25.7174 24.4562L25.722 24.4432C25.5699 24.5953 25.403 24.8046 25.2122 24.8014C25.0158 24.7982 25.7194 23.9286 25.8602 24.05L26.2663 22.8966C26.0803 22.9658 25.6361 23.3028 25.6156 23.1092C25.595 22.9153 30.2206 16.5712 30.8183 16.7817L31.587 17.0522C32.5613 17.5559 32.9238 18.1633 32.6732 18.8743L30.8845 23.9558C30.4239 28.0511 30.812 34.469 31.1928 38.9226C34.3557 37.2851 42.8263 32.9625 49.5175 30.1213C52.242 28.5754 57.6376 26.3205 57.8801 26.4892C58.1252 26.6598 59.6674 26.7652 59.7937 27.1873ZM42.0301 55.222C41.725 54.9188 41.5725 54.4859 41.5725 53.9233V51.7748H42.4603V53.8903C42.4603 54.5773 42.7453 54.9206 43.3153 54.9206C43.5929 54.9206 43.8047 54.8376 43.951 54.6712C44.0971 54.505 44.1703 54.2447 44.1703 53.8903V51.7748H45.047V53.9233C45.047 54.4859 44.8944 54.9188 44.5893 55.222C44.2845 55.5255 43.8578 55.6769 43.3097 55.6769C42.7619 55.6769 42.3352 55.5255 42.0301 55.222ZM50.4287 51.7749V55.6112H49.6999L47.7873 53.282V55.6112H46.9104V51.7749H47.6447L49.5518 54.104V51.7749H50.4287ZM53.1387 54.3288C53.2428 54.515 53.3863 54.6604 53.5689 54.7645C53.7516 54.8685 53.9561 54.9205 54.1827 54.9205C54.4091 54.9205 54.6138 54.8685 54.7966 54.7645C54.9793 54.6604 55.1224 54.515 55.2267 54.3288C55.3308 54.1423 55.3829 53.9305 55.3829 53.693C55.3829 53.4555 55.3308 53.2437 55.2267 53.0572C55.1224 52.871 54.9793 52.7256 54.7966 52.6215C54.6138 52.5175 54.4091 52.4655 54.1827 52.4655C53.9561 52.4655 53.7516 52.5175 53.5689 52.6215C53.3863 52.7256 53.2428 52.871 53.1387 53.0572C53.0344 53.2437 52.9825 53.4555 52.9825 53.693C52.9825 53.9305 53.0344 54.1423 53.1387 54.3288ZM56.4733 56.0222C56.3492 56.1756 56.1985 56.2926 56.0213 56.3729C55.844 56.4532 55.6497 56.4936 55.4376 56.4936C55.1529 56.4936 54.8951 56.4322 54.665 56.3099C54.4347 56.1874 54.1716 55.9709 53.8758 55.6605C53.5285 55.6165 53.219 55.5052 52.9469 55.3262C52.6746 55.1471 52.4628 54.9161 52.3112 54.6329C52.1596 54.3498 52.0836 54.0364 52.0836 53.693C52.0836 53.3166 52.1741 52.9778 52.355 52.6765C52.5359 52.3751 52.7861 52.1383 53.1059 51.9666C53.4256 51.7952 53.7844 51.7091 54.1827 51.7091C54.581 51.7091 54.9392 51.7952 55.2567 51.9666C55.5747 52.1383 55.8249 52.3751 56.0076 52.6765C56.1902 52.9778 56.2818 53.3166 56.2818 53.693C56.2818 54.1388 56.1565 54.5298 55.9063 54.8658C55.6559 55.202 55.3243 55.4358 54.9115 55.5673C55.0029 55.6624 55.0915 55.7307 55.1773 55.7727C55.2632 55.8147 55.3555 55.8359 55.454 55.8359C55.6917 55.8359 55.8999 55.7408 56.0789 55.5507L56.4733 56.0222ZM45.2936 58.3512L43.633 62.1875H42.7561L41.1012 58.3512H42.0601L43.2275 61.0914L44.4112 58.3512H45.2936ZM50.1162 58.3512V62.1875H49.3872L47.4745 59.8584V62.1875H46.5979V58.3512H47.3322L49.2392 60.6804V58.3512H50.1162ZM52.8071 59.0747H51.5795V58.3513H54.9226V59.0747H53.6949V62.1876H52.8071V59.0747ZM58.6053 59.2473C58.4666 59.1322 58.2636 59.0747 57.997 59.0747H57.2736V60.4118H57.997C58.2636 60.4118 58.4666 60.3536 58.6053 60.2364C58.744 60.1196 58.8135 59.9553 58.8135 59.7432C58.8135 59.5277 58.744 59.3625 58.6053 59.2473ZM58.8301 62.1875L58.09 61.1189H58.0464H57.2736V62.1875H56.3858V58.3512H58.0464C58.3861 58.3512 58.6813 58.4078 58.9314 58.5213C59.1816 58.6344 59.3745 58.795 59.5095 59.0034C59.6447 59.2115 59.7126 59.4582 59.7126 59.7432C59.7126 60.0282 59.6438 60.274 59.5067 60.4803C59.3699 60.6869 59.1753 60.8447 58.9233 60.9545L59.7836 62.1875H58.8301ZM42.4932 65.6402V66.6542H44.269V67.3666H42.4932V68.7639H41.6054V64.9279H44.5043V65.6402H42.4932ZM49.612 64.9278V68.7641H48.8832L46.9706 66.4349V68.7641H46.0937V64.9278H46.828L48.7351 67.257V64.9278H49.612ZM53.2071 68.0352C53.5909 68.0352 53.8969 67.9283 54.1251 67.7146C54.3533 67.5007 54.4676 67.2113 54.4676 66.846C54.4676 66.4807 54.3533 66.1911 54.1251 65.9772C53.8969 65.7635 53.5909 65.6566 53.2071 65.6566H52.3959V68.0352H53.2071ZM51.5082 64.9279H53.2509C53.6675 64.9279 54.0355 65.0072 54.3552 65.1662C54.675 65.325 54.9233 65.5489 55.1006 65.8376C55.2778 66.1262 55.3662 66.4622 55.3662 66.846C55.3662 67.2296 55.2778 67.5658 55.1006 67.8542C54.9233 68.1429 54.675 68.3668 54.3552 68.5258C54.0355 68.6846 53.6675 68.7639 53.2509 68.7639H51.5082V64.9279ZM1.04286 38.7251C0.671785 38.5598 0.367859 38.3245 0.130859 38.0189L0.97271 37.0089C1.32809 37.4891 1.73332 37.7288 2.18863 37.7288C2.80594 37.7288 3.11471 37.3675 3.11471 36.644V33.5293H0.813705V32.3134H4.62048V36.5598C4.62048 37.3642 4.42086 37.9675 4.02186 38.3697C3.62263 38.7717 3.03647 38.9729 2.2634 38.9729C1.82055 38.9729 1.41371 38.8903 1.04286 38.7251ZM8.68905 36.2885L7.80982 37.2051V38.8607H6.30382V32.3135H7.80982V35.3719L10.7094 32.3135H12.3929L9.68044 35.2316L12.5519 38.8607H10.7842L8.68905 36.2885ZM17.5745 33.8426C17.3375 33.6462 16.9913 33.5481 16.5362 33.5481H15.3016V35.8302H16.5362C16.9913 35.8302 17.3375 35.7305 17.5745 35.5309C17.8115 35.3313 17.9299 35.0509 17.9299 34.689C17.9299 34.3214 17.8115 34.0392 17.5745 33.8426ZM17.958 38.8607L16.6952 37.0369H16.6205H15.3016V38.8607H13.7864V32.3135H16.6205C17.2004 32.3135 17.7039 32.4102 18.1311 32.6033C18.558 32.7967 18.8871 33.0711 19.1179 33.4265C19.3484 33.7819 19.4638 34.2028 19.4638 34.689C19.4638 35.1755 19.347 35.595 19.113 35.9472C18.8792 36.2996 18.5472 36.5691 18.117 36.7563L19.5854 38.8607H17.958Z" fill="black"></path> 
+</svg>
+</a>
+
+
+</div>                </aside>
+
+                <main id="error404_content">
+                    <section class="error404">
+                        <div class="error404_container">
+                            <div class="manifesto_joker">
+                                <img src="https://jkr.co/wp-content/themes/jkr/images/icons/joker.png" alt="">
+                            </div>
+
+                            <h2 class="title title-1">
+                                Oops, 404!
+                            </h2>
+
+                            <p class="decription decription-1">
+                                We can’t seem to find the page you’re looking for
+                            </p>
+                            <a href="/" class="link link-1">
+                                Homepage
+                            </a>   
+                        </div>
+                    </section>
+                </main>
+            </div>
+
+    
+        </div>
+ 		<script src="https://jkr.co/wp-content/themes/jkr/dist/plugins_scripts.min.js"></script>
+
+
+<!--      <script>
+        var comp = new RegExp(location.host);
+            $('a').each(function() {
+            if(!comp.test($(this).attr('href'))){
+                // a link that contains the current host
+                $(this).attr('target','_blank');
+            }
+            });
+    </script> -->
+    
+   <script src="https://jkr.co/wp-content/themes/jkr/js/bundle.js"></script>
+
+
+   <!--  <script type="text/javascript" src="https://jkr.co/wp-content/themes/jkr/js/script.js"></script> -->
+    
+    </body>
+    <script type='text/javascript' src='https://jkr.co/wp-includes/js/wp-embed.min.js?ver=5.2.6'></script>
+<script type='text/javascript' src='https://jkr.co/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://jkr.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+window.lazySizesConfig = window.lazySizesConfig || {};
+
+window.lazySizesConfig.lazyClass    = 'lazyload';
+window.lazySizesConfig.loadingClass = 'lazyloading';
+window.lazySizesConfig.loadedClass  = 'lazyloaded';
+
+lazySizesConfig.loadMode = 1;
+</script>
+<script type='text/javascript' src='https://jkr.co/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.2.4'></script>
+<script type='text/javascript'>
+lazySizes.init();
+</script>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://jkr.co/wp-includes/css/dist/block-library/style.min.css?ver=5.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://jkr.co/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/jkr.co\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jkr.co/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
+</html>

@@ -1,0 +1,23 @@
+@media only screen and (max-width: 600px) {
+  .content {background-color:}
+  .content .description-1{
+    margin-bottom: 9vw;
+    font-size: 6.1vw;
+    letter-spacing: 0.13vw;
+    line-height: 1.7em;}
+  .content .description-2{
+     margin-bottom: 9vw;
+    font-size: 4.2vw;
+    letter-spacing: 0.13vw;
+    line-height: 1.7em;
+    }
+  h2{font-size: 18px;}
+  .about_item  {
+    align-items: center;
+    margin-left: 40%;
+  }
+  .become-investor{
+    font-size: 20px;
+  }
+
+}
